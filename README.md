@@ -1,1 +1,1 @@
-This is my 11th Assignment on complete-website. I developed the website of a Tailor Shop.You can order here to make fashionable shirts, pants etc.You can also review our works. Visit my website, [Click here](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+This is my 11th Assignment on complete-website. I developed the website of a Tailor Shop.You can order here to make fashionable shirts, pants etc.You can also review our works. Visit my website, [Click here](https://thirsty-archimedes-faaedb.netlify.app/home)
